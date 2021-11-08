@@ -14,6 +14,7 @@ zy 是一个想用视觉来传递感动的 Web 开发萌新，目前研三。
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white" />
   <img alt="Redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=Redux&logoColor=white" />
+  <img alt="React Router" src="https://img.shields.io/badge/-React Router-CA4245?style=flat-square&logo=ReactRouter&logoColor=white" />
   <img alt="Vite" src="https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
   <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=Webpack&logoColor=white" />
   <img alt="styled-components" src="https://img.shields.io/badge/-styled components-DB7093?style=flat-square&logo=styled-components&logoColor=white" />
