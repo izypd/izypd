@@ -1,7 +1,7 @@
 # Hi, I'm zy 👋
 zy 是一个开发萌新，目前研三。
 
-**博客**
+**个人网站**
 
 <img src="https://cdn.jsdelivr.net/gh/izypd/Gauss@main/blog/favicon.svg" /> [言语之庭](https://izypd.com)
 
@@ -80,5 +80,6 @@ zy 是一个开发萌新，目前研三。
 
 | repository | homepage | top language|
 | --- | --- | ---: |
+| [PWGAN](https://github.com/izypd/PWGAN) <img src="https://pytorch.org/assets/images/logo-icon.svg" height="16px" /> | [`🔗 PWGAN`](https://izypd.com/pwgan) | ![PWGAN top language](https://img.shields.io/github/languages/top/izypd/PWGAN?style=flat-square)|
 | [blog-react](https://github.com/izypd/blog-react) <img src="https://reactjs.org/favicon.ico" height="16px" /> | [`🔗 言语之庭`](https://izypd.com) | ![blog-react top language](https://img.shields.io/github/languages/top/izypd/blog-react?style=flat-square)|
 | [blog-nest](https://github.com/izypd/blog-nest) <img src="https://d33wubrfki0l68.cloudfront.net/e937e774cbbe23635999615ad5d7732decad182a/26072/logo-small.ede75a6b.svg" height="16px" /> | [`🔗 言语之庭`](https://izypd.com) | ![blog-nest top language](https://img.shields.io/github/languages/top/izypd/blog-nest?style=flat-square)|
